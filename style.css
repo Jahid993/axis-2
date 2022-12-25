@@ -12,7 +12,7 @@ body {
 .menu-bar {
  
     text-align: center;
-    float: inline-end;
+    float: right;
 }
 
 .menu-bar ul {
