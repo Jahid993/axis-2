@@ -254,6 +254,7 @@ footer hr {
     position: absolute;
     top: 25px;
     left: 0;
+    overflow: hidden;
 }
 
 .underline span {
@@ -274,4 +275,11 @@ footer hr {
     100%{
         left: 100%;
     }
+}
+
+@media (max-width:700px) {
+    footer.col {
+        flex-basis: 100%;
+    }
+ 
 }
