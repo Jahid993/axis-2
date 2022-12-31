@@ -215,3 +215,21 @@ footer .col {
     flex-basis: 25%;
     padding: 10px;
 }
+
+footer .col h4 {
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.col h5 {
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+footer .email-id {
+    width: fit-content;
+    border-bottom: 1px solid #ccc;
+    margin: 20px 0;
+}
